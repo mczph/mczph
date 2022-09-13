@@ -14,5 +14,5 @@ Music games player,mainly play phigros and arcaea.
 
 Bad Zenscript user,don't know how to use Crafttweaker advancedly.
 
-Now making modpack Interactions
+The developer of modpack Interactions https://github.com/Project-Interactions/Interactions.
 
