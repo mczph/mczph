@@ -6,11 +6,9 @@ I'm mczph.An 14 years old student from China.
 
 Modded Minecraft player and 1.12.2 modpack player.
 
-Be disappointed to high version Minecraft,especially 1.19+
+A translator for 1.12.2 Minecraft mods.Submit to CFPAOrg.Also translate some mods and modpacks while i'm free.
 
-A translator for 1.12.2 Minecraft mods.Submit to CFPAOrg
-
-Music games player,mainly play phigros and arcaea.
+Music games player,mainly play Phigros and Malody.
 
 Bad Zenscript user,don't know how to use Crafttweaker advancedly.
 
