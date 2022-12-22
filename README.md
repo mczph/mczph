@@ -8,7 +8,7 @@ Modded Minecraft player and 1.12.2 modpack player.
 
 A translator for 1.12.2 Minecraft mods.Submit to CFPAOrg.Also translate some mods and modpacks while i'm free.
 
-Music games player,mainly play Phigros and Malody.
+Music games player,mainly play Phigros,Malody and OSU.
 
 Bad Zenscript user,don't know how to use Crafttweaker advancedly.
 
