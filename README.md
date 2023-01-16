@@ -2,6 +2,8 @@
 
 ![mczph](https://count.getloli.com/get/@mczph?theme=gelbooru)
 
+[简体中文](https://github.com/Project-Interactions/Interactions).
+
 I'm mczph.An 14 years old student from China.
 
 Modded Minecraft player and 1.12.2 modpack player.
@@ -12,5 +14,5 @@ Music games player,mainly play Phigros,Malody and OSU.
 
 Bad Zenscript user,don't know how to use Crafttweaker advancedly.
 
-The developer of modpack Interactions https://github.com/Project-Interactions/Interactions.
+The developer of modpack [Interactions](https://github.com/Project-Interactions/Interactions).
 
