@@ -6,9 +6,9 @@
 
 模组向/整合包MC玩家。
 
-1.12.2模组汉化者（提交CFPA），有空的时候也会去翻译一点整合包。
+1.12.2模组汉化者（提交CFPA），有时候也会去翻译一点整合包。
 
-音游玩家，主要玩Phigors，Malody，OSU，OSU!Mania。
+音游玩家，主要玩Phigors，Malody，OSU，OSU!Mania，平时还喜欢看VTuber。
 
 会一点crt魔改，但是不会太高级的用法。
 
