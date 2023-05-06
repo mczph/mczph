@@ -2,7 +2,7 @@
 
 ![mczph](https://count.getloli.com/get/@mczph?theme=gelbooru)
 
-[简体中文](https://github.com/mczph/mczph/blob/main/zh_cn.md).
+[简体中文](https://mczph.github.io/).
 
 I'm mczph.An 14 years old student from China.
 
