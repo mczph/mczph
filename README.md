@@ -4,7 +4,7 @@
 
 [简体中文](https://mczph.github.io/).
 
-I'm mczph.An 14 years old student from China.
+I'm mczph.An 15 years old student from China.
 
 Modded Minecraft player and 1.12.2 modpack player.
 
@@ -30,6 +30,8 @@ Where you can find me:
 
 [Bilibili](https://space.bilibili.com/637948873)
 
+Discord:mczph
+
 Minecraft related website:
 
 [Modrinth](https://modrinth.com/user/mczph)
@@ -44,7 +46,7 @@ Games:
 
 [OSU!](https://osu.ppy.sh/users/19092862)
 
-
+Blue Archive:AYYOHEIM(Server:TAIWAN/HONG KONG/MACAO)
 
 
 
