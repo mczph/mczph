@@ -14,6 +14,8 @@ Music games player,mainly play Phigros,Malody and OSU(Mania and std).
 
 Like watching VTubers in my free time.
 
+Recently playing Blue Archive.
+
 Bad Zenscript user,don't know how to use Crafttweaker advancedly.
 
 The developer of modpack [Interactions](https://github.com/Project-Interactions/Interactions).
