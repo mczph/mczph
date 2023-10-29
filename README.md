@@ -4,15 +4,15 @@
 
 [简体中文](https://mczph.github.io/).
 
-I'm mczph.An 15 years old student from China.
+I'm mczph.An 15 years old student from China.Since I'm in school, I only respond messages on weekends.Very sorry about this.
 
-Modded Minecraft player and 1.12.2 modpack player.
+Modded Minecraft player and 1.12.2 modpack player.But I feel a little bored recently.
 
-A translator for 1.12.2 Minecraft mods.Submit to CFPAOrg.Also translate some mods and modpacks.
+A translator for 1.12.2 Minecraft mods.Submit to CFPAOrg.Also translate some mods and modpacks.(Stopped indefinitely due to time reasons)
 
-Music games player,mainly play Phigros,Malody and OSU(Mania and std).
+Music games player,mainly play OSU(Mania and std).
 
-Like watching VTubers in my free time.
+Like watching VTubers in my free time.Please subscribe [雪狐桑](https://space.bilibili.com/47779) on bilibili Thank you.
 
 Recently playing Blue Archive.
 
