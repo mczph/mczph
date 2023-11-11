@@ -2,7 +2,7 @@
 
 ![mczph](https://count.getloli.com/get/@mczph?theme=gelbooru)
 
-[简体中文](https://mczph.github.io/).
+[简体中文](https://github.com/mczph/mczph/blob/main/zh_cn.md).
 
 I'm mczph.An 15 years old student from China.Since I'm in school, I only respond messages on weekends.Very sorry about this.
 
@@ -12,7 +12,7 @@ A translator for 1.12.2 Minecraft mods.Submit to CFPAOrg.Also translate some mod
 
 Music games player,mainly play OSU(Mania and std).
 
-Like watching VTubers in my free time.Please subscribe [雪狐桑](https://space.bilibili.com/47779) on bilibili Thank you.
+Like watching VTubers in my free time.
 
 Recently playing Blue Archive.
 
