@@ -4,21 +4,19 @@
 
 [简体中文](https://github.com/mczph/mczph/blob/main/zh_cn.md).
 
-I'm mczph.An 15 years old student from China.Since I'm in school, I only respond messages on weekends.Very sorry about this.
+I'm mczph.An 15 years old student from China.Since I'm in school, I only respond messages on weekends.Sorry about this.
 
 Modded Minecraft player and 1.12.2 modpack player.But I feel a little bored recently.
 
-A translator for 1.12.2 Minecraft mods.Submit to CFPAOrg.Also translate some mods and modpacks.(Stopped indefinitely due to time reasons)
-
-Music games player,mainly play OSU(Mania and std).
+A translator for 1.12.2 Minecraft mods(en_us to zh_cn).Submit to CFPAOrg.Also translate some mods and modpacks.(Stopped indefinitely due to time reasons)
 
 Like watching VTubers in my free time.
 
-Recently playing Blue Archive.
+Also plays Blue Archive and various Music Games.
 
 Bad Zenscript user,don't know how to use Crafttweaker advancedly.
 
-The developer of modpack [Interactions](https://github.com/Project-Interactions/Interactions).
+The developer of modpack [Interactions](https://github.com/Project-Interactions/Interactions) and its related mods.
 
 Where you can find me:
 
