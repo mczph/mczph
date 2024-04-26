@@ -12,7 +12,7 @@ A translator for 1.12.2 Minecraft mods(en_us to zh_cn).Submit to CFPAOrg.Also tr
 
 Like watching VTubers in my free time.
 
-Also plays Blue Archive and various Music Games.
+Also plays Blue Archive and various Music Games like Arcaea and OSU.
 
 Bad Zenscript user,don't know how to use Crafttweaker advancedly.
 
