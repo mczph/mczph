@@ -2,51 +2,38 @@
 
 ![mczph](https://count.getloli.com/get/@mczph?theme=gelbooru)
 
-[简体中文](https://github.com/mczph/mczph/blob/main/zh_cn.md).
+I'm mczph.An 16 years old student from China,I can speak English and Chinese is my native language.
 
-I'm mczph.An 15 years old student from China.Since I'm in school, I only respond messages on weekends.Sorry about this.
+I like Maths and tech stuffs.
 
-Modded Minecraft player and 1.12.2 modpack player.But I feel a little bored recently.
-
-A translator for 1.12.2 Minecraft mods(en_us to zh_cn).Submit to CFPAOrg.Also translate some mods and modpacks.(Stopped indefinitely due to time reasons)
-
-Like watching VTubers in my free time.
-
-Also plays Blue Archive and various Music Games like Arcaea and OSU.
-
-Bad Zenscript user,don't know how to use Crafttweaker advancedly.
+Modded Minecraft player and 1.12.2 modpack player.
 
 The developer of modpack [Interactions](https://github.com/Project-Interactions/Interactions) and its related mods.
 
-Where you can find me:
+Plays music games(Arcaea and OSU) and galgame.
+
+Social Media:
 
 [Github](https://github.com/mczph)
 
 [Youtube](https://www.youtube.com/@mczph)
 
-[Twitter](https://twitter.com/mczphOfficial)
-
-[Twitch](https://www.twitch.tv/mczph)
+[X](https://twitter.com/mczphOfficial)
 
 [Bilibili](https://space.bilibili.com/637948873)
 
 Discord:mczph
 
-Minecraft related website:
-
-[Modrinth](https://modrinth.com/user/mczph)
-
-[Curseforge](https://www.curseforge.com/members/mczph/projects)
-
-[MCMOD.cn](https://www.mcmod.cn/center/114353/) 
-
-[MCBBS](https://www.mcbbs.net/home.php?mod=space&uid=3942283) 
-
 Games:
 
 [OSU!](https://osu.ppy.sh/users/19092862)
 
-Blue Archive:AYYOHEIM(Server:TAIWAN/HONG KONG/MACAO)
+[Steam](https://steamcommunity.com/profiles/76561199131679255)
 
+Minecraft:
 
+[Curseforge](https://www.curseforge.com/members/mczph/projects)
 
+[Modrinth](https://modrinth.com/user/mczph)
+
+[MCMOD.cn](https://www.mcmod.cn/center/114353/) 
