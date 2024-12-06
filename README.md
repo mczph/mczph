@@ -22,7 +22,7 @@ Social Media:
 
 [Bilibili](https://space.bilibili.com/637948873)
 
-Discord:mczph
+[Discord](http://discordapp.com/users/mczph)
 
 Games:
 
