@@ -2,15 +2,18 @@
 
 ![mczph](https://count.getloli.com/get/@mczph?theme=gelbooru)
 
-I'm mczph.An 16 years old student from China,I can speak English and Chinese is my native language.
+[推广一个好用的梯子](https://mcmuilzkj.flyairport.org/auth/register?code=mczph)
+
+I'm mczph.An 16 years old student from China.I can speak English and Chinese is my native language.
+
+Like playing GalGame,try to learn Japanese in my free time.
+
+Also play music games on mobile(Arcaea)/PC(OSU!)/arcade(CHUNITHM) but not so goot at it.
 
 I like Maths and tech stuffs.
 
-Modded Minecraft player and 1.12.2 modpack player.
-
 The developer of modpack [Interactions](https://github.com/Project-Interactions/Interactions) and its related mods.
 
-Plays music games(Arcaea and OSU) and galgame.
 
 Social Media:
 
