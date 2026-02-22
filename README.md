@@ -10,6 +10,7 @@ Also play music games on mobile(Arcaea)/PC(OSU!)/arcade(CHUNITHM) but not so goo
 
 I like Maths and tech stuffs.
 
+
 The developer of modpack [Interactions](https://github.com/Project-Interactions/Interactions) and its related mods.
 
 
@@ -31,3 +32,6 @@ Minecraft:
 [Curseforge](https://www.curseforge.com/members/mczph/projects)
 [Modrinth](https://modrinth.com/user/mczph)
 [MCMOD.cn](https://www.mcmod.cn/center/114353/) 
+
+
+[VPN推荐](https://congyu.moe/auth/register?invite=4f72bc604a)
